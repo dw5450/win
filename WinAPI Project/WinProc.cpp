@@ -11,6 +11,7 @@
 //
 LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
+	//test
 	int wmId, wmEvent;
 	PAINTSTRUCT ps;
 	static POINT OldMousePoint;								//이전 마우스 포인트    추가된 변수
